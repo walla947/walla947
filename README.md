@@ -35,6 +35,7 @@ I am currently working at Dell Technologies as a data solution specialist.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
           
           
+
 <img 
     align="left" 
     alt="HTML"
@@ -125,7 +126,7 @@ align="left"
     title="Languages"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walla947&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walla947&theme=github_dark&layout=compact"
 />
     
 </p>
