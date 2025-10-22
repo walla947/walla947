@@ -109,17 +109,6 @@ align="left"
 
 ### 📊 Statistics
 
-<p>
-<img
- align="left" 
-    alt="Git" 
-    title="Git Hub stats"
-    height="200" 
-    style="padding-right: 10px;" 
-    src=https://github-readme-stats.vercel.app/api?username=walla947&theme=github_dark
-    />
-    
-
 <img
  align="left" 
     alt="Languages" 
