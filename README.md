@@ -115,7 +115,7 @@ align="left"
     title="Languages"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walla947&theme=github_dark&layout=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walla947&theme=github_dark&layout=compact"
 />
     
 </p>
