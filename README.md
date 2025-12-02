@@ -29,5 +29,6 @@ I am currently working at Dell Technologies as a data solution specialist.
     title="Languages"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walla947&theme=github_dark&layout=compact&langs_count=7"
+    src="https://github-readme-stats-wallaby.vercel.app/api/top-langs/?username=walla947&theme=github_dark&layout=compact&langs_count=7"
 />
+
