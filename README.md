@@ -30,10 +30,6 @@ I am currently working at Dell Technologies as a data solution specialist.
   alt="Languages"
   title="Most Used Languages"
   height="200"
-  style="padding-right: 10px;"
-  src="https://readme-stats-vvz2.vercel.app/api/top-langs/?username=walla947&layout=compact&theme=default"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=walla947&layout=compact&theme=transparent"
 />
 
-<br/><br/><br/><br/><br/><br/><br/>
-
----
