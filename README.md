@@ -26,12 +26,14 @@ I am currently working at Dell Technologies as a data solution specialist.
 ### 📊 Statistics
 
 <img
-    align="left"
-    alt="Languages"
-    title="Languages"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://gitmystat.vercel.app/api/top-langs/?username=walla947"
-  alt="Top languages"
+  align="left"
+  alt="Languages"
+  title="Most Used Languages"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://readme-stats-vvz2.vercel.app/api/top-langs/?username=walla947&layout=compact&theme=default"
 />
 
+<br/><br/><br/><br/><br/><br/><br/>
+
+---
